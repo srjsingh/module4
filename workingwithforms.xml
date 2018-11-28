@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorkWithForm_detail>
+<pro_username>txtUserName</pro_username>
+<pro_password>txtPassword</pro_password>
+<pro_submit>submit</pro_submit>
+</WorkWithForm_detail>

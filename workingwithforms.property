@@ -1,0 +1,4 @@
+url=file:///D:/Users/ADM-IG-HWDLAB1B/Desktop/webdriver/WorkingWithForms.html
+username=txtUserName
+password=txtPassword
+submit=html/body/form/table/tbody/tr[13]/td/input
